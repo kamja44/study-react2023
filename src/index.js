@@ -3,9 +3,9 @@ import ReactDOM from 'react-dom/client';
 import './index.css'
 
 
-import ConfirmButton from './Chap08/ConfirmButton';
+import LandingPage from './Chap09/LandingPage';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-    <ConfirmButton />
+    <LandingPage />
 );
