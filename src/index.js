@@ -3,9 +3,9 @@ import ReactDOM from 'react-dom/client';
 import './index.css'
 
 
-import ProfileCard from './Chap13/ProfileCard';
+import DarkOrLight from './Chap14/DarkOrLight';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-    <ProfileCard />
+    <DarkOrLight />
 );
