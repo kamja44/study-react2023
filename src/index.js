@@ -3,9 +3,9 @@ import ReactDOM from 'react-dom/client';
 import './index.css'
 
 
-import LandingPage from './Chap09/LandingPage';
+import Calculator from './Chap12/Calculator';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-    <LandingPage />
+    <Calculator />
 );
